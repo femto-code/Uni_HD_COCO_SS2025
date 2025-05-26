@@ -1,0 +1,11 @@
+barrier_type,num_threads,avg_latency_us
+dissemination,1,0.000
+dissemination,2,1.31
+dissemination,4,3.45
+dissemination,8,5.14
+dissemination,12,6.37
+dissemination,16,6.52
+dissemination,24,7.91
+dissemination,32,8.65
+dissemination,40,10.44
+dissemination,48,12.25

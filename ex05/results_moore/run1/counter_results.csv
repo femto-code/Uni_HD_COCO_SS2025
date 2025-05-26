@@ -1,0 +1,11 @@
+barrier_type,num_threads,avg_latency_us
+counter,1,0.15
+counter,2,1.02
+counter,4,2.59
+counter,8,4.83
+counter,12,7.26
+counter,16,9.03
+counter,24,11.34
+counter,32,14.28
+counter,40,17.30
+counter,48,23.97

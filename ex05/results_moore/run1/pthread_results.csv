@@ -1,0 +1,11 @@
+barrier_type,num_threads,avg_latency_us
+pthread,1,0.75
+pthread,2,18.94
+pthread,4,53.47
+pthread,8,59.61
+pthread,12,76.57
+pthread,16,89.18
+pthread,24,129.21
+pthread,32,168.51
+pthread,40,217.21
+pthread,48,277.00
