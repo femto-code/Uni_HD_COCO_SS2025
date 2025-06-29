@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load CSV
-df = pd.read_csv("log_insert_r_0_1.csv")
+df = pd.read_csv("job.out")
 
 # Plot: ops_per_sec vs num_threads for each stream_size
 plt.figure(figsize=(10, 6))
@@ -17,5 +17,5 @@ plt.title("RBT Concurrent Benchmark: Throughput vs Threads")
 plt.legend()
 plt.grid(True)
 plt.tight_layout()
-plt.savefig("rbt_benchmark_throughput_vs_threads.svg")
+plt.savefig("moore.svg")
 plt.show()
